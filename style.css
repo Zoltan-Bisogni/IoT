@@ -357,9 +357,7 @@ h3 {
   }
 
   .robot-3d {
-    scale: 0.6;
-    top: -25%;
-    right: 0;
+    display: none;
   }
 
   .content {
